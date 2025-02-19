@@ -13,16 +13,9 @@ Bem-vindo ao meu perfil no GitHub! Aqui você pode encontrar meus projetos e alg
 ### 🔧 Ferramentas e Tecnologias
 Eu trabalho com várias ferramentas e tecnologias, incluindo:
 
-
-![Python](https://img.shields.io/badge/python-0A9EDC?style=for-the-badge&logo=python&logoColor=white)
-![Trello](https://img.shields.io/badge/trello-0052CC?style=for-the-badge&logo=trello&logoColor=succes)
-![C#](https://img.shields.io/badge/csharp-239DFF?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=succes)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
+- 💻 Python, C#, HTML, CSS
+- 🌍 JavaScript, Bootstrap
+- 📚 CodeIgniter4, PHP, MySQL
 
 ## 🚀 Projetos
 Aqui estão alguns dos meus projetos mais recentes:
