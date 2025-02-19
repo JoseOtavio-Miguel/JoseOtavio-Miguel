@@ -35,5 +35,3 @@ Vamos conversar! 👨‍💻 Entre em contato comigo nas minhas redes sociais:
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </div>
-- [LinkedIn](link-do-linkedin)
-- [Twitter](link-do-twitter)
