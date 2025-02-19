@@ -13,20 +13,34 @@ Bem-vindo ao meu perfil no GitHub! Aqui você pode encontrar meus projetos e alg
 ### 🔧 Ferramentas e Tecnologias
 Eu trabalho com várias ferramentas e tecnologias, incluindo:
 
-- 💻 Python, JavaScript, HTML, CSS
-- 🛠️ Git, GitHub, Docker
-- 🌐 React, Node.js, Django
+## 🛠️ Habilidades 
+![Python](https://img.shields.io/badge/python-0A9EDC?style=for-the-badge&logo=python&logoColor=white)
+![Trello](https://img.shields.io/badge/trello-0052CC?style=for-the-badge&logo=trello&logoColor=succes)
+![C#](https://img.shields.io/badge/csharp-239DFF?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=succes)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 
 ## 🚀 Projetos
 Aqui estão alguns dos meus projetos mais recentes:
 
-- [Projeto 1](link-do-projeto-1)
-- [Projeto 2](link-do-projeto-2)
-- [Projeto 3](link-do-projeto-3)
+- [Projeto 1]([link-do-projeto-1](https://github.com/JoseOtavio-Miguel/Desafio_DIO_Python_Otimizado))
+- [Projeto 2]([link-do-projeto-2](https://github.com/JoseOtavio-Miguel/Sistema-Bancario))
 
 ---
 
 Vamos conversar! 👨‍💻 Entre em contato comigo nas minhas redes sociais:
 
+<div align="center">
+  <a href="https://github.com/JoseOtavio-Miguel" target="_blank">
+    <img src="https://img.shields.io/badge/github-F05032?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/jos%C3%A9-ot%C3%A1vio-ot%C3%A1vio-31a952322 " target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</div>
 - [LinkedIn](link-do-linkedin)
 - [Twitter](link-do-twitter)
