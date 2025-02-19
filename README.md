@@ -28,7 +28,7 @@ Aqui estão alguns dos meus projetos mais recentes:
 Vamos conversar! 👨‍💻 Entre em contato comigo nas minhas redes sociais:
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/jos%C3%A9-ot%C3%A1vio-ot%C3%A1vio-31a952322 " target="_blank">
+  <a href="https://www.linkedin.com/in/jos%C3%A9-ot%C3%A1vio-dos-santos-miguel-31a952322" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </div>
