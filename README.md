@@ -14,8 +14,8 @@ Bem-vindo ao meu perfil no GitHub! Aqui você pode encontrar meus projetos e alg
 Eu trabalho com várias ferramentas e tecnologias, incluindo:
 
 - 💻 Python, C#, HTML, CSS
-- 🌍 JavaScript, Bootstrap
-- 📚 CodeIgniter4, PHP, MySQL
+- 🌍 JavaScript, C
+- 📚 Bootstrap, PHP, SQL
 
 ## 🚀 Projetos
 Aqui estão alguns dos meus projetos mais recentes:
