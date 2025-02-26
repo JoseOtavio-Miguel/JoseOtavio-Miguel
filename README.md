@@ -35,7 +35,7 @@ Aqui estão alguns dos meus projetos mais recentes:
 
 - [Projeto 1](https://github.com/JoseOtavio-Miguel/Desafio_DIO_Python_Otimizado)
 - [Projeto 2](https://github.com/JoseOtavio-Miguel/Sistema-Bancario)
-- [Projeto 3]([https://github.com/JoseOtavio-Miguel/Sistema-Bancario](https://github.com/JoseOtavio-Miguel/DashBoard-Interativa))
+- [Projeto 3](https://github.com/JoseOtavio-Miguel/Sistema-Bancario](https://github.com/JoseOtavio-Miguel/DashBoard-Interativa))
 
 ---
 
