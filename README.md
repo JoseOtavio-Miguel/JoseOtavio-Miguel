@@ -2,6 +2,13 @@
 
 Bem-vindo ao meu perfil no GitHub! Aqui você pode encontrar meus projetos e algumas estatísticas sobre minhas contribuições.
 
+## 🌟 Sobre Mim
+💻 Desenvolvedor Back-End | Python | C# | C++ | JavaScript | PHP | SQL
+
+Apaixonado por tecnologia e desenvolvimento de software, sou um desenvolvedor back-end com experiência em diversas linguagens, incluindo Python, C#, C++, JavaScript e SQL. Tenho sólidos conhecimentos em bancos de dados e no desenvolvimento de APIs eficientes e escaláveis.
+Estou sempre buscando aprimorar minhas habilidades e explorar novas tecnologias para entregar soluções inovadoras. Vamos conectar e trocar ideias sobre desenvolvimento e tecnologia! 🚀
+
+
 ## 🏆 Minhas Contribuições
 [![GitHub Streak](https://streak-stats.demolab.com/?user=JoseOtavio-Miguel&theme=transparent&background=f4f4f4&border=3A6D8E&dates=8A8A8A&ring=FF8C00&fire=FF6347&sideNums=696969&sideLabels=808080)](https://git.io/streak-stats)
 
