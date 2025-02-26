@@ -10,7 +10,7 @@ Estou sempre buscando aprimorar minhas habilidades e explorar novas tecnologias 
 
 
 ## 🏆 Minhas Contribuições
-[![GitHub Streak](https://streak-stats.demolab.com/?user=JoseOtavio-Miguel&theme=transparent&background=f4f4f4&border=3A6D8E&dates=8A8A8A&ring=FF8C00&fire=FF6347&sideNums=696969&sideLabels=808080)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoseOtavio-Miguel&theme=transparent&bg_color=f4f4f4&border_color=3A6D8E&show_icons=true&icon_color=FF8C00&title_color=FF8C00&text_color=333333)
 
 ## 📊 Estatísticas do GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoseOtavio-Miguel&theme=transparent&bg_color=f4f4f4&border_color=3A6D8E&show_icons=true&icon_color=FF8C00&title_color=FF8C00&text_color=333333)
