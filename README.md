@@ -33,7 +33,7 @@ Eu trabalho com várias ferramentas e tecnologias, incluindo:
 ## 🚀 Projetos
 Aqui estão alguns dos meus projetos mais recentes:
 
-- [Projeto 1](https://github.com/JoseOtavio-Miguel/Desafio_DIO_Python_Otimizado)
+- [Projeto 1](https://github.com/JoseOtavio-Miguel/ATM-Bank)
 - [Projeto 2](https://github.com/JoseOtavio-Miguel/Sistema-Bancario)
 - [Projeto 3](https://github.com/JoseOtavio-Miguel/DashBoard-Interativa)
 
