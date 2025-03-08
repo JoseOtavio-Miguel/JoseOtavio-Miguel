@@ -10,11 +10,11 @@ Estou sempre buscando aprimorar minhas habilidades e explorar novas tecnologias 
 
 
 
-## 🏆 Minhas Contribuições
+## Minhas Contribuições
 [![GitHub Streak](https://streak-stats.demolab.com/?user=JoseOtavio-Miguel&theme=transparent&background=FFFFFF&border=A6A6A6&dates=8A8A8A&ring=FFA07A&fire=FF6347&sideNums=696969&sideLabels=808080)](https://git.io/streak-stats)
 
 
-## 📊 Estatísticas do GitHub
+## Estatísticas do GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoseOtavio-Miguel&theme=transparent&bg_color=f4f4f4&border_color=3A6D8E&show_icons=true&icon_color=FF8C00&title_color=FF8C00&text_color=333333)
 
 ## Linguagens mais Utilizadas
@@ -23,14 +23,14 @@ Estou sempre buscando aprimorar minhas habilidades e explorar novas tecnologias 
 
 ---
 
-### 🔧 Ferramentas e Tecnologias
+### Ferramentas e Tecnologias
 Eu trabalho com várias ferramentas e tecnologias, incluindo:
 
 - 💻 Python, C#, HTML, CSS
 - 🌍 JavaScript, C
 - 📚 Bootstrap, PHP, SQL
 
-## 🚀 Projetos
+## Projetos
 Aqui estão alguns dos meus projetos mais recentes:
 
 - [Projeto 1](https://github.com/JoseOtavio-Miguel/ATM-Bank)
