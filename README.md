@@ -9,9 +9,8 @@ Apaixonado por tecnologia e desenvolvimento de software, sou um desenvolvedor ba
 Estou sempre buscando aprimorar minhas habilidades e explorar novas tecnologias para entregar soluções inovadoras. Vamos conectar e trocar ideias sobre desenvolvimento e tecnologia! 🚀
 
 
-
 ## Minhas Contribuições
-[![GitHub Streak](https://streak-stats.demolab.com/?user=JoseOtavio-Miguel&theme=transparent&background=FFFFFF&border=A6A6A6&dates=8A8A8A&ring=FFA07A&fire=FF6347&sideNums=696969&sideLabels=808080)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=JoseOtavio-Miguel&theme=transparent&background=FFFFFF&border=A6A6A6&dates=8A8A8A&ring=FFA07A&fire=FF6347&sideNums=696969&sideLabels=808080)](https://streak-stats.demolab.com)
 
 
 ## Estatísticas do GitHub
