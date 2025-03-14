@@ -17,7 +17,7 @@ Estou sempre buscando aprimorar minhas habilidades e explorar novas tecnologias 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoseOtavio-Miguel&theme=transparent&bg_color=f4f4f4&border_color=3A6D8E&show_icons=true&icon_color=FF8C00&title_color=FF8C00&text_color=333333)
 
 ## Linguagens mais Utilizadas
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JoseOtavio-Miguel&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseOtavio-MiguelEfi&layout=compact&theme=dracula)](https://github.com/JoseMarcosEfi/github-readme-stats)
 
 
 ---
