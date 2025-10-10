@@ -5,7 +5,7 @@ Bem-vindo ao meu perfil no GitHub! Aqui você pode encontrar meus projetos e alg
 ## Sobre Mim
 💻 Desenvolvedor Back-End | Python | C# | C | JavaScript | PHP | SQL
 
-Apaixonado por tecnologia e desenvolvimento de software, sou um desenvolvedor back-end com experiência em diversas linguagens, incluindo Python, C#, C, JavaScript e SQL. Tenho sólidos conhecimentos em bancos de dados e no desenvolvimento de APIs eficientes e escaláveis.
+Sou um desenvolvedor back-end com experiência em diversas linguagens, incluindo Python, C#, C, JavaScript e SQL. Tenho sólidos conhecimentos em bancos de dados e no desenvolvimento de APIs eficientes e escaláveis.
 Estou sempre buscando aprimorar minhas habilidades e explorar novas tecnologias para entregar soluções inovadoras. Vamos conectar e trocar ideias sobre desenvolvimento e tecnologia! 🚀
 
 
