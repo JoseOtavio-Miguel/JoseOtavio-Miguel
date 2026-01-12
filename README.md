@@ -80,10 +80,7 @@ Dashboard moderna e responsiva para visualização de dados e métricas em tempo
 ## 📫 Vamos Conectar!
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/jos%C3%A9-ot%C3%A1vio-dos-santos-miguel-31a952322" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:seu-email@example.com" target="_blank">
+  <a href="mailto:joseotaviomat12@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
