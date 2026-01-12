@@ -37,6 +37,7 @@ Estou constantemente aprendendo e me desafiando com novos projetos para entregar
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseOtavio-Miguel&layout=donut-vertical&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF8C00&text_color=FFFFFF&langs_count=10&hide=html,css,scss,less)
 
 </div>
+
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
