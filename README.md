@@ -20,14 +20,27 @@ Estou constantemente aprendendo e me desafiando com novos projetos para entregar
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoseOtavio-Miguel&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF8C00&icon_color=FF8C00&text_color=FFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseOtavio-Miguel&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF8C00&text_color=FFF"/>
+
+### 🔥 Sequência de Commits
+![GitHub Streak](https://streak-stats.demolab.com/?user=JoseOtavio-Miguel&theme=dark&hide_border=true&background=0D1117&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00)
+
+### 📈 Atividade Recente
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JoseOtavio-Miguel&theme=react-dark&hide_border=true&custom_title=Gráfico%20de%20Contribuições)](https://github.com/JoseOtavio-Miguel)
+
+### 💻 Linguagens no GitHub
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoseOtavio-Miguel&theme=radical&hide_border=true&background=0D1117&stroke=FF8C00&ring=FF8C00&fire=FF8C00&currStreakLabel=FFF" alt="GitHub Streak" />
+  <a href="https://github.com/JoseOtavio-Miguel">
+    <img src="https://img.shields.io/github/followers/JoseOtavio-Miguel?label=Seguidores&style=social" alt="GitHub Followers"/>
+  </a>
+  <a href="https://github.com/JoseOtavio-Miguel">
+    <img src="https://img.shields.io/github/stars/JoseOtavio-Miguel?label=Estrelas&style=social" alt="GitHub Stars"/>
+  </a>
 </div>
-
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
