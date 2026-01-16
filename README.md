@@ -18,6 +18,18 @@ Estou constantemente aprendendo e me desafiando com novos projetos para entregar
 
 ---
 
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+### 🔥 Sequência de Commits
+![GitHub Streak](https://streak-stats.demolab.com/?user=JoseOtavio-Miguel&theme=dark&hide_border=true&background=0D1117&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00)
+
+### 📈 Atividade Recente
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JoseOtavio-Miguel&theme=react-dark&hide_border=true&custom_title=Gráfico%20de%20Contribuições)](https://github.com/JoseOtavio-Miguel)
+
+---
+
 ## 🛠️ Tecnologias & Ferramentas
 
 ### Linguagens de Programação
