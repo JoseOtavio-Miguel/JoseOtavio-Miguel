@@ -6,9 +6,10 @@ Bem-vindo ao meu perfil no GitHub! Aqui você encontra meus projetos e contribui
 
 ```text
 💻 Desenvolvedor Back-End | Python | C# | C | JavaScript | PHP | SQL
-🎯 Especializado em APIs escaláveis e arquitetura de sistemas
+🎯 Focado em APIs escaláveis e arquitetura de sistemas
 🔍 Sempre explorando novas tecnologias e boas práticas
 🚀 Apaixonado por resolver problemas complexos com código elegante
+🤖 Atualmente me especializando em Inteligência Artificial
 ```
 
 Sou um desenvolvedor back-end com experiência sólida em múltiplas linguagens e tecnologias. Meu foco está no desenvolvimento de APIs eficientes, escaláveis e na construção de soluções robustas para bancos de dados relacionais e não-relacionais.
