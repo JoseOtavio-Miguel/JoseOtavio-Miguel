@@ -17,29 +17,6 @@ Sou um desenvolvedor back-end com experiência sólida em múltiplas linguagens 
 Estou constantemente aprendendo e me desafiando com novos projetos para entregar soluções inovadoras que fazem a diferença. Vamos conectar e trocar ideias sobre desenvolvimento e tecnologia! 🚀
 
 ---
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-### 🔥 Sequência de Commits
-![GitHub Streak](https://streak-stats.demolab.com/?user=JoseOtavio-Miguel&theme=dark&hide_border=true&background=0D1117&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00)
-
-### 📈 Atividade Recente
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JoseOtavio-Miguel&theme=react-dark&hide_border=true&custom_title=Gráfico%20de%20Contribuições)](https://github.com/JoseOtavio-Miguel)
-
-### 🏆 Status do GitHub
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoseOtavio-Miguel&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF8C00&icon_color=FF8C00&text_color=FFFFFF" alt="Estatísticas do GitHub"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseOtavio-Miguel&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF8C00&text_color=FFFFFF&langs_count=8" alt="Linguagens mais usadas"/>
-</div>
-
-### 📊 Linguagens Mais Usadas
-<!-- Usando um widget diferente para mais detalhes -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseOtavio-Miguel&layout=donut-vertical&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF8C00&text_color=FFFFFF&langs_count=10&hide=html,css,scss,less)
-
-</div>
-
----
 
 ## 🛠️ Tecnologias & Ferramentas
 
