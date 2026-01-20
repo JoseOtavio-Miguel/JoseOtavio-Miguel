@@ -92,7 +92,7 @@ Dashboard moderna e responsiva para visualização de dados e métricas em tempo
 ---
 
 <div align="center">
-  <i>"Código limpo não é escrito seguindo regras. É escrito com muito carinho."</i>
+  <i>"Measuring programming progress by lines of code is like measuring aircraft building progress by weight."</i>
   <br>
-  <sub>⭐ Não esqueça de dar uma estrela nos projetos que você gostar!</sub>
+  <sub>Bill Gates</sub>
 </div>
